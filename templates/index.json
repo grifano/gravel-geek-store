@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "some text",
+            "heading": "Gravel Shirt Revolution at Gravel Geek Store",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Embrace the path less traveled with our gravel shirts, designed to fuel your passion and elevate your adventures. Discover the ultimate blend of style, durability, and the spirit of the wild. Gear up, stand out, and ride beyond limits.",
             "text_style": "body"
           }
         },
@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/gravel-bicycle-and-nature.jpg",
+        "image": "shopify:\/\/shop_images\/gravel-riders.webp",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
