@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Gravel Shirt Revolution at Gravel Geek Store",
+            "heading": "<strong>Gravel Shirt Revolution <\/strong>at Gravel Geek Store",
             "heading_size": "h0"
           }
         },
@@ -36,12 +36,12 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/gravel-riders.webp",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 60,
         "image_height": "large",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-3",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
